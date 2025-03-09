@@ -1,4 +1,4 @@
-# IMPORTANT NTICE
+# IMPORTANT NOOTICE
 This is an unlinked fork of the original WebGoat project (https://github.com/WebGoat/WebGoat).
 Any contributions should target the original project.
 
